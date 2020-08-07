@@ -1,4 +1,4 @@
-### Hi there, I am Jubayer. Nice to meet you! 👋
+### Hi there! Nice to meet you! 👋
 
 ## I'm a Student, Entrepreneur, Open Source Contributor
 
@@ -13,6 +13,7 @@
 <br>
 <br>
 <img align="left" alt="JubayerJoy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JubayerJoy&show_icons=true&hide_border=true" />
+<br>
 
 ### Connect with me:
 
