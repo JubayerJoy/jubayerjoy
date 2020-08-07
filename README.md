@@ -11,7 +11,6 @@
 - 🖤 Contributing to Open Source :octocat:
 <br>
 <br>
-<br>
 <img align="left" alt="JubayerJoy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JubayerJoy&show_icons=true&hide_border=true" />
 <br>
 
