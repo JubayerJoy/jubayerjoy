@@ -9,6 +9,7 @@
 - 🖤 Data Science & Data Visualization 📉
 - 🖤 <strike>Breaking</strike> Building things 🛠️
 - 🖤 Contributing to Open Source :octocat:
+<br>
 
 ### Connect with me:
 
@@ -19,6 +20,7 @@
 [<img align="left" alt="Joy | Codeforces"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 [<img align="left" alt="Joy | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][StackOverflow]
 [<img align="left" alt="Joy | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+<br>
 <br>
 
 ### Languages and Tools:
