@@ -6,9 +6,9 @@
 - I'm working as Chief Technology Officer at my co-founded startup [Falcon Tech BD][falcontechbd] 🚀
 - Learning about Data Structures & Algorithms 🖱
 - Machine Learning and Artificial Intelligence enthusiast 🤖
-- I 🖤 Data Science & Data Visualization 📉
-- I 🖤 Building beautiful things 🛠️
-- I 🖤 Contributing to Open Source :octocat:
+- 🖤 Data Science & Data Visualization 📉
+- 🖤 <strike>Breaking</strike> Building things 🛠️
+- 🖤 Contributing to Open Source :octocat:
 
 ### Connect with me:
 
