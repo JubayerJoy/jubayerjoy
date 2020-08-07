@@ -9,7 +9,6 @@
 - 🖤 Data Science & Data Visualization 📉
 - 🖤 <strike>Breaking</strike> Building things 🛠️
 - 🖤 Contributing to Open Source :octocat:
-<br>
 
 ### Connect with me:
 
