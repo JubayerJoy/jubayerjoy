@@ -10,8 +10,6 @@
 - I 🖤 Building beautiful things 🛠️
 - I 🖤 Contributing to Open Source :octocat:
 
----
-
 ### Connect with me:
 
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
@@ -21,10 +19,7 @@
 [<img align="left" alt="Joy | Codeforces"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 [<img align="left" alt="Joy | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][StackOverflow]
 [<img align="left" alt="Joy | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
-
 <br>
-
----
 
 ### Languages and Tools:
 
@@ -42,9 +37,6 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
 
 <br>
-
----
-
 <img align="left" alt="JubayerJoy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JubayerJoy&show_icons=true&hide_border=true" />
 
 
