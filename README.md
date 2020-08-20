@@ -38,11 +38,12 @@
 
 [facebook]: https://www.facebook.com/jubayer.joy.50
 [linkedin]: https://www.linkedin.com/in/jubayer-joy
-
 [falcontechbd]: https://falcontech.com.bd
 [portfolio]: https://falcontech.com.bd/joy
 [twitter]: https://twitter.com/JubayerJoy_
 [codeforces]: https://codeforces.com/profile/Joy
+[StackOverflow]: https://stackoverflow.com/users/6262464/jubayer-abdullah-joy
+[mail]: mailto:joy.cse5.bu@gmail.com
 
 
 <!--
