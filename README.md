@@ -2,8 +2,8 @@
 
 ## I'm a Student, Entrepreneur, Open Source Contributor
 
-- I'm pursuing B.Sc. in Computer Science & Engineering at University of Barishal, Bangladesh
-- I'm working as Chief Technology Officer at my co-founded startup [Falcon Tech BD][falcontechbd] 🚀
+- Pursuing B.Sc. in Computer Science & Engineering at University of Barishal, Bangladesh 
+- Working as Chief Technology Officer at my campus grown startup [Falcon Tech BD][falcontechbd] 🚀
 - Learning about Data Structures & Algorithms 🖱
 - Machine Learning and Artificial Intelligence enthusiast 🤖
 - 🖤 Data Science & Data Visualization 📉
@@ -34,16 +34,16 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][linkedin]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][linkedin]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][linkedin]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][linkedin]
+<!--[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][linkedin] -->
+
+[facebook]: https://www.facebook.com/jubayer.joy.50
+[linkedin]: https://www.linkedin.com/in/jubayer-joy
 
 [falcontechbd]: https://falcontech.com.bd
 [portfolio]: https://falcontech.com.bd/joy
-[facebook]: https://www.facebook.com/jubayer.joy.50
-[linkedin]: https://www.linkedin.com/in/jubayer-joy
 [twitter]: https://twitter.com/JubayerJoy_
 [codeforces]: https://codeforces.com/profile/Joy
-[StackOverflow]: https://stackoverflow.com/users/6262464/jubayer-abdullah-joy
-[mail]: mailto:joy.cse5.bu@gmail.com
+
 
 <!--
 **JubayerJoy/jubayerjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
