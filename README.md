@@ -27,6 +27,7 @@ Learn more about me on [my website](http://jubayerjoy.github.io/).
 </p>
 <br>
 
+
 ### Language, DB, Libraries and Frameworks
 
 <p align="center">
@@ -123,12 +124,16 @@ Learn more about me on [my website](http://jubayerjoy.github.io/).
 
 [falcontechbd]: https://falcontech.com.bd
 [portfolio]: https://falcontech.com.bd/joy
+
 [facebook]: https://www.facebook.com/jubayer.joy.50
 [linkedin]: https://www.linkedin.com/in/jubayer-joy
+[falcontechbd]: https://falcontech.com.bd
+[portfolio]: https://falcontech.com.bd/joy
 [twitter]: https://twitter.com/JubayerJoy_
 [codeforces]: https://codeforces.com/profile/Joy
 [stackoverflow]: https://stackoverflow.com/users/6262464/jubayer-abdullah-joy
 [mail]: mailto:joy.cse5.bu@gmail.com
+
 
 <!--
 **JubayerJoy/jubayerjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -146,6 +151,7 @@ Here are some ideas to get you started:
 Student, Computer Science & Engineering, University of Barishal
 • CTO, @FalconTechBD
 • 🖤 problem-solving, machine-learning, artificial-intelligence and ☕️
+
 
 
 # Connect with me:
@@ -172,5 +178,4 @@ Student, Computer Science & Engineering, University of Barishal
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][linkedin]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
-
 -->
