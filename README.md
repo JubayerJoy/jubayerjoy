@@ -2,7 +2,7 @@
 
 ![](https://github.com/JubayerJoy/JubayerJoy/blob/master/img/hero.png)
 
-I am Computer Science & Engineering UG student, with expectation to graduate in 2023 🎓. I am currently working on drone based data collection and analytics platform **AgroDrone** at my startup [Falcon Tech BD][falcontechbd] 🚀. Apart from academics and research, I **work on 🌐 full stack web Engineering, Study 🌲 data structure and algorithm, ☁️ cloud native architecture, 📱 web technology, 🐳 DevOps, and ⌨️ data science**. Contributing and encouraging people for **open source :octocat: collaborations**.
+I am Computer Science & Engineering UG student, with expectation to graduate in 2023 🎓. I am currently working on drone based data collection and analytics platform **AgroDrone** at my startup [Falcon Tech BD][falcontechbd] 🚀. Apart from academics and research, I **work on full stack web Engineering 🌐, study data structure and algorithm 🌲, cloud native architecture ☁️, web technology 📱, DevOps 🐳, and data science ⌨️**. Contributing and encouraging people for **open source collaborations :octocat:**.
 
 Learn more about me on [my website](http://jubayerjoy.github.io/).
 
@@ -15,10 +15,10 @@ Learn more about me on [my website](http://jubayerjoy.github.io/).
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][stackoverflow]
 
 - 🛠️ <strike>Breaking</strike> Building things
-- 🤖 Machine learning and AI
 - 🌲 DSA problem solving (1500+ solve count)
 - ⌨️ Full stack web engineering
 - 🐳 cloud native architecture, DevOps
+- 🤖 Machine learning and AI
 - 👨‍🎓 Research Interest: Data Science, Image Processing, ML/AI, Web Technology
 
 <br>
