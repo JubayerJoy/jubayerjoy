@@ -1,4 +1,5 @@
-# Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey! 
+<!--<img width="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> -->
 
 ![](https://github.com/JubayerJoy/JubayerJoy/blob/master/img/hero.png)
 
