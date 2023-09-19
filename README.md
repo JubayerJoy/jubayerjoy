@@ -12,12 +12,13 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)][mail]
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][stackoverflow]
 
-- 🛠️ <strike>Breaking</strike> Building things
-- 🌲 DSA problem solving (1500+ solve count)
-- ⌨️ Full stack web engineering
-- 🐳 cloud native architecture, DevOps
-- 🤖 Machine learning and AI
-- 👨‍🎓 Research Interest: Data Science, Image Processing, ML/AI, Web Technology
+- ⌨️ Senior Full-stack Software Engineer (4+ years in FinTech/ML Industry)
+- 🛠️ I love <strike>Breaking</strike> Building performant, data-intense web applications that scale to the moon. 🚀
+- 🦫 I love to work with data. Contributing to DataOPs for current organization @VertikalRMS-org.
+- 🤔 I keep my brain active by solving challenging data structure and algorithm problems (2000+ solve count).
+- 👨‍🎓 I have a research interest in Applied Artificial Intelligence and Large Language Model (LLM) applications in Data.
+
+#### I am open to discussing new opportunities, please reach out to jubayerjoy98@gmail.com
 
 <br>
 <p  align="center">
