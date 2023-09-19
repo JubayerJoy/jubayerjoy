@@ -14,11 +14,11 @@
 
 - ⌨️ Senior Full-stack Software Engineer (4+ years in FinTech/ML Industry)
 - 🛠️ I love <strike>Breaking</strike> Building performant, data-intense web applications that scale to the moon. 🚀
-- 🦫 I love working with data. Contributing to DataOPs for current organization [VertikalRMS](www.vertikalrms.com).
+- 🦫 I love working with data. Contributing to DataOPs for my current organization [<img src="https://www.vertikalrms.com/wp-content/uploads/2019/08/logo_icon.png" height=20px/> Vertikal RMS inc][verikalrms].
 - 🤔 I keep my brain active by solving challenging data structure and algorithm problems (2000+ solve count).
 - 👨‍🎓 I have a research interest in Applied Artificial Intelligence and Large Language Model (LLM) applications in Data.
 
-#### I am open to discussing new opportunities, please reach out to jubayerjoy98@gmail.com
+#### I am open to discussing new opportunities (Remote IC), please reach out to jubayerjoy98@gmail.com
 
 <br>
 <p  align="center">
@@ -123,6 +123,7 @@
 
 [falcontechbd]: https://falcontech.com.bd
 [portfolio]: https://falcontech.com.bd/joy
+[verikalrms]: https://www.vertikalrms.com/
 
 [facebook]: https://www.facebook.com/jubayer.joy.50
 [linkedin]: https://www.linkedin.com/in/jubayer-joy
@@ -132,7 +133,6 @@
 [codeforces]: https://codeforces.com/profile/Joy
 [stackoverflow]: https://stackoverflow.com/users/6262464/jubayer-abdullah-joy
 [mail]: mailto:joy.cse5.bu@gmail.com
-
 
 <!--
 **JubayerJoy/jubayerjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
