@@ -12,7 +12,7 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)][mail]
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][stackoverflow]
 
-- ⌨️ Senior Full-stack Software Engineer (4+ years in FinTech/AgriTech/ML Industry)
+- ⌨️ Senior Full-stack Software Engineer with 4+ years of industry experience in FinTech/AgriTech/ML Industry)
 - 🛠️ I love <strike>Breaking</strike> Building performant, data-intense web applications that scale to the moon. 🚀
 - 🦫 I love working with data. Contributing to DataOPs for my current organization [<img src="https://www.vertikalrms.com/wp-content/uploads/2019/08/logo_icon.png" height=20px/> Vertikal RMS inc][verikalrms].
 - 🤔 I keep my brain active by solving challenging data structure and algorithm problems (2000+ solve count).
