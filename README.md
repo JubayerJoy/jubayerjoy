@@ -10,7 +10,7 @@
 - 🤔 I keep my brain active by solving challenging data structure and algorithm problems (2000+ solve count).
 - 👨‍🎓 I have a research interest in Applied Artificial Intelligence and Large Language Model (LLM) applications in Data.
 
-#### I am open to discussing new opportunities (Remote IC), please reach out to jubayerjoy98@gmail.com
+#### I am open to discussing new opportunities, please reach out at jubayerjoy98@gmail.com
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
