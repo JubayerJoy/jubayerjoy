@@ -4,14 +4,6 @@
 ![](https://github.com/JubayerJoy/JubayerJoy/blob/master/img/hero.png)
 
 
-![GitHub followers](https://img.shields.io/github/followers/Jubayerjoy?style=social)
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)][mail]
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][stackoverflow]
-
 - ⌨️ Senior Full-stack Software Engineer (4+ years of industry experience diversified in FinTech/AgriTech/EdTech Industry)
 - 🛠️ I love <strike>Breaking</strike> Building performant, data-intense web applications that scale to the moon. 🚀
 - 🦫 Contributing to the development, and DataOps for my current organization [<img src="https://www.vertikalrms.com/wp-content/uploads/2019/08/logo_icon.png" height=14px/> Vertikal RMS inc][verikalrms].
@@ -20,14 +12,20 @@
 
 #### I am open to discussing new opportunities (Remote IC), please reach out to jubayerjoy98@gmail.com
 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)][mail]
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][stackoverflow]
+![GitHub followers](https://img.shields.io/github/followers/Jubayerjoy?style=for-the-badge&logo=github)
+
+
+### Language, DB, Libraries and Frameworks
 <br>
 <p  align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JubayerJoy&hide_langs_below=1&theme=dracula&line_height=27&layout=compact" />
 </p>
 <br>
-
-
-### Language, DB, Libraries and Frameworks
 
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
