@@ -3,9 +3,6 @@
 
 ![](https://github.com/JubayerJoy/JubayerJoy/blob/master/img/hero.png)
 
-I am Computer Science & Engineering UG student, with expectation to graduate in 2023 🎓. I am currently working on drone based data collection and analytics platform **AgroDrone** at my startup [Falcon Tech BD][falcontechbd] 🚀. Apart from academics and research, I **work on full stack web Engineering 🌐, study data structure and algorithm 🌲, cloud native architecture ☁️, web technology 📱, DevOps 🐳, and data science ⌨️**. Contributing and encouraging people for **open source collaborations :octocat:**.
-
-Learn more about me on [my website](http://jubayerjoy.github.io/).
 
 ![GitHub followers](https://img.shields.io/github/followers/Jubayerjoy?style=social)
 
