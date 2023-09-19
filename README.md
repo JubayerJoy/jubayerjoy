@@ -14,7 +14,7 @@
 
 - ⌨️ Senior Full-stack Software Engineer (4+ years in FinTech/ML Industry)
 - 🛠️ I love <strike>Breaking</strike> Building performant, data-intense web applications that scale to the moon. 🚀
-- 🦫 I love to work with data. Contributing to DataOPs for current organization @VertikalRMS-org.
+- 🦫 I love working with data. Contributing to DataOPs for current organization @VertikalRMS-org.
 - 🤔 I keep my brain active by solving challenging data structure and algorithm problems (2000+ solve count).
 - 👨‍🎓 I have a research interest in Applied Artificial Intelligence and Large Language Model (LLM) applications in Data.
 
