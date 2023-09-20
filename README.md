@@ -4,7 +4,7 @@
 ![](https://github.com/JubayerJoy/JubayerJoy/blob/master/img/hero.png)
 
 
-- ⌨️ Senior Full-stack Software Engineer (4+ years of experience diversified in FinTech/AgriTech/EdTech Industry)
+- ⌨️ Senior Full-stack Software Engineer (4+ years of experience diversified in FinTech/AgriTech/EdTech industry)
 - 🛠️ I love <strike>Breaking</strike> Building performant, data-intense web applications that scale to the moon. 🚀
 - 🦫 Contributing to the development, and DataOps for my current organization [<img src="https://www.vertikalrms.com/wp-content/uploads/2019/08/logo_icon.png" height=14px/> Vertikal RMS inc][verikalrms].
 - 🤔 I keep my brain active by solving challenging data structure and algorithm problems (2000+ solve count).
